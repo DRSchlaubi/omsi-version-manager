@@ -10,16 +10,14 @@ A simple solution is to just install OMSI multiple times, but that takes a lot o
 
 # Prerequisites
 - Go to Steam -> OMSI 2 -> Properties -> Updates -> Select "Update only when starting"
-- Uninstall every single DLC (or all DLCs you don't consider your "base game", if you e.g. want to use an eCitaro on other Maps than Hamburg, don't uninstall that) 
- - If you want to use [OmniNavigation](https://store.steampowered.com/app/1471521/OMSI_2_Addon_OmniNavigation/) also install that to the base game
-- If you want also delete the content of your maps folder (except for Spandau and Grundorf) to delete the remaining .osn files
-- Co to Steam -> Steam in the top left -> Quit (otherwise steam might want to start downloading omsi when you are setting up your multiple installs)
+- Uninstall OMSI 2 and make a clean reinstall with all DLCs you want in the base game (and maybe OmniNavigation)
 
 # Install
 - Download the [script](https://raw.githubusercontent.com/DRSchlaubi/omsi-version-manager/main/LICENSE) into your OMSI folder
 - Rename your current OMSI installation to something like `OMSI 2 - base game`
 
 # Create new copy (run this from the base game folder)
+- Exist Staem
 - Open and administrative Powershell in your OMSI folder
 - Run `.\new-copy.ps1 'Omsi - France'` or simmilar depending on what installation you want to create
 - Run `cd '..\Omsi - France'`
