@@ -17,6 +17,7 @@ A simple solution is to just install OMSI multiple times, but that takes a lot o
 - Rename your current OMSI installation to something like `OMSI 2 - base game`
 
 # Create new copy (run this from the base game folder)
+- (If you already have a version activated delete the OMSI 2 symlink in your steam folder and then uninstall all DLCs in Steam)
 - Exist Staem
 - Open and administrative Powershell in your OMSI folder
 - Run `.\new-copy.ps1 'Omsi - France'` or simmilar depending on what installation you want to create
