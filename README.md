@@ -24,6 +24,7 @@ A simple solution is to just install OMSI multiple times, but that takes a lot o
 - Run `cd '..\Omsi - France'`
 - Uninstall Omsi from steam (this won't actually do anything, apart from making steam re-validate files)
 - Run `./activate.ps1`
+- Install Omsi again and choose al the DLCs you want to add
 
 # Start
 - Exit steam
