@@ -1,0 +1,1 @@
+New-Item -Path '..\OMSI 2' -ItemType SymbolicLink -Value .
