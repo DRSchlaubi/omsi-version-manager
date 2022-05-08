@@ -1,3 +1,7 @@
+A new, more advanced version, can be found [here](https://github.com/NyCodeGHG/omsi-launcher)
+
+<details>
+  <summary>Old Readme</summary>
 # omsi-version-manager
 
 The really popular Bus Simulator [OMSI 2](https://store.steampowered.com/app/252530/OMSI_2_Steam_Edition/) has one really big issue 
@@ -33,3 +37,4 @@ A simple solution is to just install OMSI multiple times, but that takes a lot o
 
 Now you're OMSI installation is selected and you can install all the addons for the desired installation, in this case I installed [Grand Paris Moulon](https://store.steampowered.com/app/1475580/OMSI_2_Addon_Grand_ParisMoulon/) 
 and [Saint Servan](https://store.steampowered.com/app/1475580/OMSI_2_Addon_Grand_ParisMoulon/) because those actually share a lot of content
+</details>
